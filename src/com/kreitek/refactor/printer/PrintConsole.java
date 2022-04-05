@@ -4,7 +4,7 @@ import com.kreitek.refactor.TIPODNI;
 
 public class PrintConsole {
 
-    public static void header(){
+    public static void banner(){
         System.out.println("=====================");
         System.out.println("Vamos a refactorizar!");
         System.out.println("=====================");
